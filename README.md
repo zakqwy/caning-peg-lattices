@@ -1,1 +1,1 @@
-# caning-peg-lattice
+# Caning Peg Lattice
