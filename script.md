@@ -2,13 +2,15 @@
 
 This is a caning peg lattice. I assembled it from three parts: struts and nodes fabricated from 3/4" plywood, and caning pegs, which are commercially available tapered maple rods. Struts slide loosely into nodes and can be pinned into joints by pressing a caning peg into the gap. The joint is further secured by driving the peg in with a mallet, which can be conveniently fabricated from a strut, a node, and a caning peg. This forms a strong, stiff connection, which can be repeated to produce large honeycomb lattice sheets.
 
-If you get one thing out of this video, I hope it is that caning peg lattices are fun to build, particularly as a group, so if your fab lab has cycles available on its CNC mill please consider devoting a few hours and a sheet of plywood to building a set. Don't forget to buy a pile of caning pegs; they're well under a buck each and you'll need two for every strut you mill. 
+Caning peg lattices are great fun to build, particularly as a group, so if your fab lab or local maker space has cycles available on its CNC mill please consider devoting a few hours and a sheet of plywood to building a set. Don't forget to buy a pile of caning pegs; they're well under a buck each and you'll need two for every strut you mill. 
+
+In this video, I will go over how to build caning peg lattices, and how to fabricate the struts and nodes using a low-cost CNC mill. I will also talk a bit about the design and history of the project, why orthogonal taper pin joints are neat, and the myriad of interesting next steps that could be taken to extend the concept. I encourage you to jump around to these sections using the time stamps listed in the description. 
 
 ## Design
 
 I started experimenting with what I call orthogonal taper pin joints in grad school a few years ago. Then, I used the joints to fabricate assembleable flexural mechanisms out of metal at a smaller scale than is shown here. I'll include a few links in the video description if you want to learn more. 
 
-Caning peg lattices get their size and form factor from a few places. I had some left-over 3/4" plywood from building a pump house, and my 3018 Pro CNC has a fairly small working area. I wanted to be able to mill a few parts from each sub-sheet to reduce waste, although offcut volume still ended up being substantial. And while caning pegs may not be ubiquitous or locally for sale, they at least seem to be standardized and available from many vendors. All of the sources I looked at (which were only a few, to be fair) agreed that the pegs are 2 3/4", or roughly 70 millimeters long, and 7/16" or roughly 11 millimeters in diameter at the large end, tapering down to a 1/8" or roughly 3 millimeter point. 
+Caning peg lattices get their size and form factor from a few places. I had some left-over 3/4" plywood from building a pump house, and my 3018 Pro CNC has a fairly small working area. I wanted to be able to mill a few parts from each sub-sheet to reduce waste, although offcut volume still ended up being substantial. And while caning pegs may not be ubiquitous or locally for sale, they at least seem to be standardized and available from many vendors. All of the sources I looked at agreed that the pegs are 2 3/4 inches, or roughly 70 millimeters long, and seven sixteenths of an inches, or roughly 11 millimeters in diameter at the large end, tapering down to an eighth of an inch, or roughly 3 millimeters at the point. 
 
 In this particular instantiation, the nodes can accept three struts in one plane, at equal (or 120 degree) angles to one another. This means a fully dense lattice is a honeycomb point set, which is a type of hexagonal lattice that exists in a single plane. Carbon atoms can be convinced to sit this way to form layers of graphene. Here, it keeps nodes simple and means you can fill a lot of space with not a lot of plywood. Since I hope to make other lattice configurations, I call this type of node a "trinode" in the documentation. To keep things simple, and because I haven't fabricated any other node types yet, I will call them "nodes" in this video. 
 
@@ -75,7 +77,8 @@ experiential
     figuring out recursion
     teamwork, etc.
 
-## Minutae
+## Files, Licensing, Contributing
 
-licensing
-like and subscribe if you want zach working on this more
+Caning peg lattices, and orthogonal taper pin joints generally, are open-source, covered under the permissive MIT license. All of the design files and fabrication outputs can be found in the respository linked in the video description. Generally speaking, I'm open to ideas for improving the concept along a variety of previously discussed axes (and, of course, in directions I haven't considered); however, I do ask that you take the time to physically test ideas prior to submitting pull requests. Since modifications to dimensions usually result in incompatible parts, new motifs will supplement rather than replace the current joint geometry, which I call Alpha. But there are plenty of Greek letters left, so feel free to remix and improve this concept as you like. And please let me know when you do, so I can keep track of how the project evolves over time. 
+
+I can't promise that I'll make another video about caning peg lattices, but if I do, the best way for you to see it is to feed the great algorithms by liking this video and subscribing to my Youtube channel. And thanks for watching! 
