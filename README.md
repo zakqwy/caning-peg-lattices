@@ -1,7 +1,9 @@
 # Caning Peg Lattices
 
 ![A caning peg lattice supports a small outboard engine.](img/caning-peg-lattices-engine.jpg)
-_above, a reversibly assembled caning peg lattice consisting of five hexagons is used to suspend a 2 HP outboard boat engine from a Norway pine._
+_above, a reversibly assembled caning peg lattice consisting of five hexagons is used to suspend a 2 HP outboard boat engine from a Norway pine; below, two assembled assembly/disassembly tools showing joint detail and polarity marks._
+
+![Two assembled assembly/disassembly tools.](img/joint-detail.jpg)
 
 Caning peg lattices are sturdy person-scale structures assembled from three parts: struts, nodes, and caning pegs. Assembly is carried out using a simple tool assembled from one of each of these parts. This tool is also used to quickly disassemble the lattice for transport, storage, or re-configuration. 
 
